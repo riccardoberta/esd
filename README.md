@@ -21,3 +21,4 @@ The course provides the basics for the study and design of digital systems. It s
 - S. Harris and D. Harris, [Digital Design and Computer Architecture, RISC-V Edition](https://shop.elsevier.com/books/digital-design-and-computer-architecture-risc-v-edition/harris/978-0-12-820064-3?country=IT&format=print&utm_source=google_ads&utm_medium=paid_search&utm_campaign=itpmax&gclid=CjwKCAjwp8OpBhAFEiwAG7NaEsXA2MdVTPaFfAAf9lsb1LAx6xf72P_f9b31621ZAItxDx2uITP2ChoCutwQAvD_BwE&gclsrc=aw.ds), Morgan Kaufmann, 2020  
 - G. Donzellini, ​et al., [Introduzione al progetto di sistemi digitali](https://link.springer.com/book/10.1007/978-88-470-3963-6), Springer, 2018
 - F. Fummi, et al., [Progettazione Digitale](https://www.mheducation.it/progettazione-digitale-3-ed-9788838656811-italy), McGraw-Hill, 2023
+- B. Mealy, F. Tappero, Free Range VHDL, FreeRangeFactory, 2025
