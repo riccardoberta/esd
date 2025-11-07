@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Fri Nov  7 11:54:52 2025
+# Process ID         : 35084
+# Current directory  : C:/Users/riccardo.berta/Documents/ESD/07 - Hardware Description Languages/project_hello_world/project_hello_world.runs/synth_1
+# Command line       : vivado.exe -log sillyfunction.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source sillyfunction.tcl
+# Log file           : C:/Users/riccardo.berta/Documents/ESD/07 - Hardware Description Languages/project_hello_world/project_hello_world.runs/synth_1/sillyfunction.vds
+# Journal file       : C:/Users/riccardo.berta/Documents/ESD/07 - Hardware Description Languages/project_hello_world/project_hello_world.runs/synth_1\vivado.jou
+# Running On         : RicPC
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : Intel(R) Core(TM) Ultra 9 185H
+# CPU Frequency      : 3072 MHz
+# CPU Physical cores : 16
+# CPU Logical cores  : 22
+# Host memory        : 68125 MB
+# Swap memory        : 4294 MB
+# Total Virtual      : 72420 MB
+# Available Virtual  : 56779 MB
+#-----------------------------------------------------------
+source sillyfunction.tcl -notrace
